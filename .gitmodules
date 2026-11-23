@@ -1,0 +1,6 @@
+[submodule "src/backend"]
+	path = src/backend
+	url = https://github.com/Walfhand/dotnet-modular-monolith-template.git
+[submodule "src/client"]
+	path = src/client
+	url = https://github.com/Walfhand/react-vite-frontend-template.git
